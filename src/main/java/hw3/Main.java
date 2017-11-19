@@ -5,6 +5,7 @@ public class Main {
         int arr1[] = {1, 2, 3};
         int arr2[] = {5, 5, 3};
         int arr3[] = {1, 1, 3};
+        //jdhfgjdhgldkjhgljdh;
         isIncreased(arr1);
         isIncreased(arr2);
         isIncreased(arr3);
